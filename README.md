@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aditya-Singh-031/leetcode-solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Aditya-Singh-031/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0347-top-k-frequent-elements](https://github.com/Aditya-Singh-031/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
@@ -39,4 +40,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aditya-Singh-031/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Aditya-Singh-031/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Aditya-Singh-031/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
