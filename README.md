@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Aditya-Singh-031/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Aditya-Singh-031/leetcode-solutions/tree/master/0009-palindrome-number) |
 ## Array
 |  |
