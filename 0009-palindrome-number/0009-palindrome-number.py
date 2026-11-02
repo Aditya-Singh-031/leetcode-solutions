@@ -5,9 +5,7 @@ class Solution:
             return False
         
         x = str(x)
-        for i in range(len(x)):
-            if x[i] == x[-1-i]:
-                pass
-            else :
-                return False
-        return True
+        if x == x[::-1]:
+            return True
+        else :
+            return False
